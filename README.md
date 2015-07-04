@@ -1,10 +1,10 @@
-# resume2015
-Michaelynn Ryan
+
+# Michaelynn Ryan
 1715 N 47th St, Seattle WA 98103, 206-778-3844, Michaelynn.ryan@gmail.com
 
-I have 5 years experience as a Field Agent with very high NPS scores. I’m passionate about learning new technologies and improving customer experience and internal company efficiency.   
+I have five years of experience as a Field Agent with very high NPS scores. I’m passionate about technology, learning,  and improving customer experience through internal corporate efficiency.      
 
-Redfin, Field Agent, 2009-present
+__Redfin, Field Agent__, 2009-present
 * Toured thousands of homes with Redfin clients, building a reputation for having a “critical eye”, leaving objective insights for customers, 
 * Knowledge specialist regarding home construction materials and condition, customer educator.
 * Trained new field agents at boot camp for Daren Carper, coaching on Redfin values, touring structure, how to leave agent insights, giving feedback on newhire performance to managers.
