@@ -4,6 +4,7 @@
 
 *I have five years of experience as a Real Estate Agent at Redfin with very high survey scores. I’m passionate about technology, learning, and fighting for social justice via education and opportunity.*      
 
+
 __Associate Agent__, Redfin, 2009-present
   * Toured thousands of homes with Redfin clients, building a reputation for having a “critical eye”, leaving objective insights for customers, 
   * Knowledge specialist regarding home construction materials and condition, customer educator.
